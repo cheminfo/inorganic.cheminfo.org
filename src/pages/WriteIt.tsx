@@ -1,4 +1,5 @@
 import type { ReactElement } from 'react';
+import { ClickToCopy } from 'react-cheminfo/ui';
 
 import { shownName } from '../data/names.ts';
 import { NamingSeries } from '../shared/NamingSeries.tsx';
@@ -22,9 +23,13 @@ export function WriteIt(): ReactElement {
           prompt={(compound) => (
             <>
               <p className="question-compound">
-                <span className="question-compound__name">
+                <ClickToCopy
+                  className="question-compound__name"
+                  label="name"
+                  value={shownName(compound.formula)}
+                >
                   {shownName(compound.formula)}
-                </span>
+                </ClickToCopy>
               </p>
               <p>What is its formula?</p>
             </>

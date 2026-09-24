@@ -81,3 +81,17 @@ test('the tutorial walks its steps, and checks the name typed', async ({
     ),
   ).toBeVisible();
 });
+
+test('the name a question shows is copied by clicking it', async ({
+  page,
+  context,
+}) => {
+  await context.grantPermissions(['clipboard-read', 'clipboard-write']);
+  await page.goto('/formula?seed=3&class=hydroxide&level=school');
+  const name = page.getByRole('article').locator('.question-compound__name');
+  const shown = await name.textContent();
+  await name.click();
+  await expect
+    .poll(async () => page.evaluate(() => navigator.clipboard.readText()))
+    .toBe(shown);
+});

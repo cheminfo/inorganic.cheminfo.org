@@ -2,14 +2,13 @@ import { FormGroup, InputGroup } from '@blueprintjs/core';
 import type { ReactElement } from 'react';
 import { useId, useState } from 'react';
 import {
+  ClickToCopy,
   GlossaryText,
   TestCaseList,
   TutorialStepStrip,
   useTabRoute,
 } from 'react-cheminfo/ui';
-import { MF } from 'react-mf';
 
-import { normalizeFormula } from '../chemistry/formula.ts';
 import { COMPOUNDS } from '../data/compounds.ts';
 import {
   TUTORIAL_EN,
@@ -20,6 +19,7 @@ import type { TutorialStepSkeleton } from '../data/tutorial.ts';
 import { TUTORIAL_STEPS } from '../data/tutorial.ts';
 import type { FieldCase } from '../exercises/types.ts';
 import { CalculatorTable } from '../shared/CalculatorTable.tsx';
+import { CopyableFormula } from '../shared/CopyableFormula.tsx';
 import { openStep, router } from '../state/router.ts';
 import { NAME_TOOL } from '../tools/name.ts';
 
@@ -73,10 +73,10 @@ function StepCard(props: { step: TutorialStepSkeleton }): ReactElement {
       <CalculatorTable headers={['Formula', 'Name']}>
         {step.examples.map((formula) => (
           <tr key={formula}>
-            <td>
-              <MF mf={normalizeFormula(formula)} />
-            </td>
-            <td>{shownName(formula)}</td>
+            <CopyableFormula as="td" formula={formula} />
+            <ClickToCopy as="td" label="name" value={shownName(formula)}>
+              {shownName(formula)}
+            </ClickToCopy>
           </tr>
         ))}
       </CalculatorTable>
@@ -96,7 +96,7 @@ function Practice(props: { formula: string }): ReactElement {
   return (
     <section className="tutorial__practice" aria-labelledby={`${id}-title`}>
       <h3 className="tutorial__practice-title" id={`${id}-title`}>
-        Your turn: name <MF mf={normalizeFormula(formula)} />
+        Your turn: name <CopyableFormula formula={formula} />
       </h3>
       <FormGroup label="Name" labelFor={id}>
         <InputGroup
