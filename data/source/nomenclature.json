@@ -1,0 +1,1339 @@
+[
+  {
+    "mf": "Al2O3",
+    "name": "Aluminum oxide",
+    "nameFR": "Oxyde d'aluminium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Sb2O5",
+    "name": "Antimony(V) oxide",
+    "nameFR": "Oxyde d'antimoine(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ag2O",
+    "name": "Silver(I) oxide",
+    "nameFR": "Oxyde d'argent(I)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "BaO",
+    "name": "Barium oxide",
+    "nameFR": "Oxyde de baryum",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "BeO",
+    "name": "Beryllium oxide",
+    "nameFR": "Oxyde de béryllium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Bi2O5",
+    "name": "Bismuth(V) oxide",
+    "nameFR": "Oxyde de bismuth(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "B2O3",
+    "name": "Boron oxide",
+    "nameFR": "Oxyde de bore",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CdO",
+    "name": "Cadmium oxide",
+    "nameFR": "Oxyde de cadmium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CaO",
+    "name": "Calcium oxide",
+    "nameFR": "Oxyde de calcium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ce2O3",
+    "name": "Cerium(III) oxide",
+    "nameFR": "Oxyde de cérium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CeO2",
+    "name": "Cerium(IV) oxide",
+    "nameFR": "Oxyde de cérium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Cs2O",
+    "name": "Cesium oxide",
+    "nameFR": "Oxyde de césium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CrO",
+    "name": "Chromium(II) oxide",
+    "nameFR": "Oxyde de chrome(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Cr2O3",
+    "name": "Chromium(III) oxide",
+    "nameFR": "Oxyde de chrome(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CrO2",
+    "name": "Chromium(IV) oxide",
+    "nameFR": "Oxyde de chrome(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CrO3",
+    "name": "Chromium(VI) oxide",
+    "nameFR": "Oxyde de chrome(VI)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CoO",
+    "name": "Cobalt(II) oxide",
+    "nameFR": "Oxyde de cobalt(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Co2O3",
+    "name": "Cobalt(III) oxide",
+    "nameFR": "Oxyde de cobalt(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Cu2O",
+    "name": "Copper(I) oxide",
+    "nameFR": "Oxyde de cuivre(I)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CuO",
+    "name": "Copper(II) oxide",
+    "nameFR": "Oxyde de cuivre(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "SnO",
+    "name": "Tin(II) oxide",
+    "nameFR": "Oxyde d'étain(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "SnO2",
+    "name": "Tin(IV) oxide",
+    "nameFR": "Oxyde d'étain(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Fe2O3",
+    "name": "Iron(III) oxide",
+    "nameFR": "Oxyde de fer(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Fr2O",
+    "name": "Francium oxide",
+    "nameFR": "Oxyde de francium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Gd2O3",
+    "name": "Gadolinium(III) oxide",
+    "nameFR": "Oxyde de gadolinium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "GaO",
+    "name": "Gallium(II) oxide",
+    "nameFR": "Oxyde de gallium(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ga2O3",
+    "name": "Gallium(III) oxide",
+    "nameFR": "Oxyde de gallium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "GeO",
+    "name": "Germanium(II) oxide",
+    "nameFR": "Oxyde de germanium(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "GeO2",
+    "name": "Germanium(IV) oxide",
+    "nameFR": "Oxyde de germanium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "In2O",
+    "name": "Indium(I) oxide",
+    "nameFR": "Oxyde d'indium(I)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "InO",
+    "name": "Indium(II) oxide",
+    "nameFR": "Oxyde d'indium(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "In2O3",
+    "name": "Indium(III) oxide",
+    "nameFR": "Oxyde d'indium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ir2O3",
+    "name": "Iridium oxide",
+    "nameFR": "Oxyde d'iridium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "La2O3",
+    "name": "Lanthanum oxide",
+    "nameFR": "Oxyde de lanthane",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Li2O",
+    "name": "Lithium oxide",
+    "nameFR": "Oxyde de lithium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "MgO",
+    "name": "Magnesium oxide",
+    "nameFR": "Oxyde de magnésium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Mn3O4",
+    "name": "Manganese(II,III) oxide",
+    "nameFR": "Oxyde de manganèse(II,III)",
+    "level": "20",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "MnO",
+    "name": "Manganese(II) oxide",
+    "nameFR": "Oxyde de manganèse(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Mn2O3",
+    "name": "Manganese(III) oxide",
+    "nameFR": "Oxyde de manganèse(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "MnO2",
+    "name": "Manganese(IV) oxide",
+    "nameFR": "Oxyde de manganèse(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Mn2O5",
+    "name": "Manganese(V) oxide",
+    "nameFR": "Oxyde de manganèse(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Mn2O7",
+    "name": "Manganese(VII) oxide",
+    "nameFR": "Oxyde de manganèse(VII)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Hg2O",
+    "name": "Mercury(I) oxide",
+    "nameFR": "Oxyde de mercure(I)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "HgO",
+    "name": "Mercury(II) oxide",
+    "nameFR": "Oxyde de mercure(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "MoO2",
+    "name": "Molybdenum(IV) oxide",
+    "nameFR": "Oxyde de molybdène(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Mo2O5",
+    "name": "Molybdenum(V) oxide",
+    "nameFR": "Oxyde de molybdène(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "NiO",
+    "name": "Nickel(II) oxide",
+    "nameFR": "Oxyde de nickel(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ni2O3",
+    "name": "Nickel(III) oxide",
+    "nameFR": "Oxyde de nickel(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Nb2O3",
+    "name": "Niobium(III) oxide",
+    "nameFR": "Oxyde de niobium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Os2O3",
+    "name": "Osmium(III) oxide",
+    "nameFR": "Oxyde d'osmium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "OsO3",
+    "name": "Osmium(VI) oxide",
+    "nameFR": "Oxyde d'osmium(VI)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "OsO4",
+    "name": "Osmium(VIII) oxide",
+    "nameFR": "Oxyde d'osmium(VIIII)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "PdO",
+    "name": "Palladium(II) oxide",
+    "nameFR": "Oxyde de palladium(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "PdO2",
+    "name": "Palladium(IV) oxide",
+    "nameFR": "Oxyde de palladium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Pt3O4",
+    "name": "Platinum(II,IV) oxide",
+    "nameFR": "Oxyde de platine(II,IV)",
+    "level": "20",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "PtO",
+    "name": "Platinum(II) oxide",
+    "nameFR": "Oxyde de platine(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Pt2O3",
+    "name": "Platinum(III) oxide",
+    "nameFR": "Oxyde de platine(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "PuO2",
+    "name": "Plutonium(IV) oxide",
+    "nameFR": "Oxyde de plutonium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Pu2O5",
+    "name": "Plutonium(V) oxide",
+    "nameFR": "Oxyde de plutonium(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "K2O",
+    "name": "Potassium oxide",
+    "nameFR": "Oxyde de potassium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "RaO",
+    "name": "Radium oxide",
+    "nameFR": "Oxyde de radium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Rh2O3",
+    "name": "Rhodium(III) oxide",
+    "nameFR": "Oxyde de rhodium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Rb2O",
+    "name": "Rubidium oxide",
+    "nameFR": "Oxyde de rubidium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "RuO2",
+    "name": "Ruthenium(IV) oxide",
+    "nameFR": "Oxyde de ruthénium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "RuO4",
+    "name": "Ruthenium(VIII) oxide",
+    "nameFR": "Oxyde de ruthénium(VIII)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Sc2O3",
+    "name": "Scandium(III) oxide",
+    "nameFR": "Oxyde de scandium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Na2O",
+    "name": "Sodium oxide",
+    "nameFR": "Oxyde de sodium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "SrO",
+    "name": "Strontium oxide",
+    "nameFR": "Oxyde de strontium",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ta2O3",
+    "name": "Tantalum(III) oxide",
+    "nameFR": "Oxyde de tantale(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ta2O5",
+    "name": "Tantalum(V) oxide",
+    "nameFR": "Oxyde de tantale(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Tl2O",
+    "name": "Thallium(I) oxide",
+    "nameFR": "Oxyde de thallium(I)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Tl2O3",
+    "name": "Thallium(III) oxide",
+    "nameFR": "Oxyde de thallium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "TiO",
+    "name": "Titanium(II) oxide",
+    "nameFR": "Oxyde de titane(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "Ti2O3",
+    "name": "Titanium(III) oxide",
+    "nameFR": "Oxyde de titane(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "TiO2",
+    "name": "Titanium(IV) oxide",
+    "nameFR": "Oxyde de titane(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "W2O3",
+    "name": "Tungsten(III) oxide",
+    "nameFR": "Oxyde de tungstène(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "WO2",
+    "name": "Tungsten(IV) oxide",
+    "nameFR": "Oxyde de tungstène(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "W2O5",
+    "name": "Tungsten(V) oxide",
+    "nameFR": "Oxyde de tungstène(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "U2O5",
+    "name": "Uranium(V) oxide",
+    "nameFR": "Oxyde d'uranium(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "VO",
+    "name": "Vanadium(II) oxide",
+    "nameFR": "Oxyde de vanadium(II)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "V2O3",
+    "name": "Vanadium(III) oxide",
+    "nameFR": "Oxyde de vanadium(III)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "VO2",
+    "name": "Vanadium(IV) oxide",
+    "nameFR": "Oxyde de vanadium(IV)",
+    "level": "1",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "V2O5",
+    "name": "Vanadium(V) oxide",
+    "nameFR": "Oxyde de vanadium(V)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "ZnO",
+    "name": "Zinc oxide",
+    "nameFR": "Oxyde de zinc",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "ZrO2",
+    "name": "Zirconium(IV) oxide",
+    "nameFR": "Oxyde de zirconium(IV)",
+    "level": "10",
+    "categories": ["metalOxide"]
+  },
+  {
+    "mf": "CaO2",
+    "name": "Calcium peroxide",
+    "nameFR": "Peroxyde de calcium",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "Cu2O2",
+    "name": "Copper peroxide",
+    "nameFR": "Peroxyde de cuivre",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "MgO2",
+    "name": "Magnesium peroxide",
+    "nameFR": "Peroxyde de magnésium",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "K2O2",
+    "name": "Potassium peroxide",
+    "nameFR": "Peroxyde de potassium",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "Na2O2",
+    "name": "Sodium peroxide",
+    "nameFR": "Peroxyde de sodium",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "ZnO2",
+    "name": "Zinc peroxide",
+    "nameFR": "Peroxyde de zinc",
+    "level": "20",
+    "categories": ["Peroxide"]
+  },
+  {
+    "mf": "CO2",
+    "name": "Carbon dioxide",
+    "nameFR": "Dioxyde de carbone",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "CO",
+    "name": "Carbon monoxide",
+    "nameFR": "Monoxyde de carbone",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "NO",
+    "name": "Nitric oxide",
+    "nameFR": "Monoxyde d'azote",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "NO2",
+    "name": "Nitric dioxide",
+    "nameFR": "Dioxyde d'azote",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "IO2",
+    "name": "Iodine dioxide",
+    "nameFR": "Dioxyde d'iode",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "Al(OH)3",
+    "name": "Aluminum hydroxide",
+    "nameFR": "Hydroxyde d'aluminium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Ba(OH)2",
+    "name": "Barium hydroxide",
+    "nameFR": "Hydroxyde de baryum",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Be(OH)2",
+    "name": "Beryllium hydroxide",
+    "nameFR": "Hydroxyde de béryllium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Bi(OH)3",
+    "name": "Bismuth hydroxide",
+    "nameFR": "Hydroxyde de bismuth(III)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "H3BO3",
+    "name": "Boric acid",
+    "nameFR": "Acide borique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "Cd(OH)2",
+    "name": "Cadmium hydroxide",
+    "nameFR": "Hydroxyde de cadmium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Ca(OH)2",
+    "name": "Calcium hydroxide",
+    "nameFR": "Hydroxyde de calcium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Ce(OH)4",
+    "name": "Cerium hydroxide",
+    "nameFR": "Hydroxyde de cérium(IV)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "CsOH",
+    "name": "Cesium hydroxide",
+    "nameFR": "Hydroxyde de césium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Cr(OH)3",
+    "name": "Chromium hydroxide",
+    "nameFR": "Hydroxyde de chrome(III)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Co(OH)2",
+    "name": "Cobalt hydroxide",
+    "nameFR": "Hydroxyde de cobalt(II)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Cu(OH)2",
+    "name": "Copper hydroxide",
+    "nameFR": "Hydroxyde de cuivre(II)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "FeO(OH)",
+    "name": "Ferric hydroxide oxide",
+    "nameFR": "Oxyhydroxyde de fer(III)",
+    "level": "20",
+    "categories": ["metalOxide", "Hydroxide"]
+  },
+  {
+    "mf": "Gd(OH)3",
+    "name": "Gadolinium hydroxide",
+    "nameFR": "Hydroxyde de gadolinium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Au(OH)3",
+    "name": "Gold hydroxide",
+    "nameFR": "Hydroxyde d'or(III)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Hf(OH)4",
+    "name": "Hafnium hydroxide",
+    "nameFR": "Hydroxyde d'hafnium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "In(OH)3",
+    "name": "Indium hydroxide",
+    "nameFR": "Hydroxyde d'indium(III)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "La(OH)3",
+    "name": "Lanthanum hydroxide",
+    "nameFR": "Hydroxyde de lanthane",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "LiOH",
+    "name": "Lithium hydroxide",
+    "nameFR": "Hydroxyde de lithium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Mg(OH)2",
+    "name": "Magnesium hydroxide",
+    "nameFR": "Hydroxyde de magnésium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Mn(OH)2",
+    "name": "Manganese hydroxide",
+    "nameFR": "Hydroxyde de manganèse(II)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Nd(OH)3",
+    "name": "Neodymium hydroxide",
+    "nameFR": "Hydroxyde de néodyme",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Ni(OH)2",
+    "name": "Nickel hydroxide",
+    "nameFR": "Hydroxyde de nickel(II)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Pd(OH)2",
+    "name": "Palladium hydroxide",
+    "nameFR": "Hydroxyde de palladium(II)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "KOH",
+    "name": "Potassium hydroxide",
+    "nameFR": "Hydroxyde de potassium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "RbOH",
+    "name": "Rubidium hydroxide",
+    "nameFR": "Hydroxyde de rubidium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Sm(OH)3",
+    "name": "Samarium(III) hydroxide",
+    "nameFR": "Hydroxyde de samarium(III)",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "NaOH",
+    "name": "Sodium hydroxide",
+    "nameFR": "Hydroxyde de sodium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Sr(OH)2",
+    "name": "Strontium hydroxide",
+    "nameFR": "Hydroxyde de strontium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Zn(OH)2",
+    "name": "Zinc hydroxide",
+    "nameFR": "Hydroxyde de zinc",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "Zr(OH)4",
+    "name": "Zirconium hydroxide",
+    "nameFR": "Hydroxyde de zirconium",
+    "level": "10",
+    "categories": ["Hydroxide"]
+  },
+  {
+    "mf": "H2SO3",
+    "name": "Sulfurous acid",
+    "nameFR": "Acide sulfureux",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2SO4",
+    "name": "Sulfuric acid",
+    "nameFR": "Acide sulfurique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2SO2",
+    "name": "Hyposulfurous acid",
+    "nameFR": "Acide hyposulfureux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2SO5",
+    "name": "Persulfuric acid",
+    "nameFR": "Acide peroxysulfurique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S2O7",
+    "name": "Pyrosulfuric acid",
+    "nameFR": "Acide pyrosulfurique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S2O5",
+    "name": "Disulfurous acid",
+    "nameFR": "Acide disulfureux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S2O4",
+    "name": "Dithionous acid",
+    "nameFR": "Acide dithioneux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S4O6",
+    "name": "Tetrathionic acid",
+    "nameFR": "Acide tétrathionique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S2O2",
+    "name": "Thiosulfurous acid",
+    "nameFR": "Acide thiosulfureux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S",
+    "name": "Hydrosulfuric acid",
+    "nameFR": "Sulfure d'hydrogène",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2S2O8",
+    "name": "Peroxydisulfuric acid",
+    "nameFR": "Acide peroxydisulfurique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HClO4",
+    "name": "Perchloric acid",
+    "nameFR": "Acide perchlorique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HCl",
+    "name": "Hydrochloric acid",
+    "nameFR": "Acide chlorhydrique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HClO",
+    "name": "Hypochlorous acid",
+    "nameFR": "Acide hypochloreux",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HClO2",
+    "name": "Chlorous acid",
+    "nameFR": "Acide chloreux",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HClO3",
+    "name": "Chloric acid",
+    "nameFR": "Acide chlorique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNO",
+    "name": "Hyponitrous acid",
+    "nameFR": "Acide hyponitreux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNO2",
+    "name": "Nitrous acid",
+    "nameFR": "Acide nitreux",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNO3",
+    "name": "Nitric acid",
+    "nameFR": "Acide nitrique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNO4",
+    "name": "Pernitric acid",
+    "nameFR": "Acide pernitrique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2CO2",
+    "name": "Carbonous acid",
+    "nameFR": "Acide carboneux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2CO3",
+    "name": "Carbonic acid",
+    "nameFR": "Acide carbonique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2CO",
+    "name": "Hypocarbonous acid",
+    "nameFR": "Acide hypocarboneux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2CO4",
+    "name": "Percarbonic acid",
+    "nameFR": "Acide percarbonique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2C2O4",
+    "name": "Oxalic acid",
+    "nameFR": "Acide oxalique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "CH3COOH",
+    "name": "Acetic acid",
+    "nameFR": "Acide acétique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H3PO4",
+    "name": "Phosphoric acid",
+    "nameFR": "Acide phosphorique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H3PO3",
+    "name": "Phosphorous acid",
+    "nameFR": "Acide phosphoreux",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H3PO2",
+    "name": "Hypophosphous Acid",
+    "nameFR": "Acide hypophosphoreux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H3PO5",
+    "name": "Perphosphoric Acid",
+    "nameFR": "Acide perphosphorique",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H4P2O6",
+    "name": "Hypophosphoric Acid",
+    "nameFR": "Acide hypophosphoreux",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H4P2O7",
+    "name": "Pyrophosphoric Acid",
+    "nameFR": "Acide pyrophosphorique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H3P",
+    "name": "Hydrophosphoric Acid",
+    "nameFR": "Hydrure de phosphore",
+    "level": "20",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HBr",
+    "name": "Hydrobromic Acid",
+    "nameFR": "Acide bromhydrique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HF",
+    "name": "Hydrofluoric acid",
+    "nameFR": "Acide fluorhydrique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HI",
+    "name": "Hydroiodic acid",
+    "nameFR": "Acide iodhydrique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HSCN",
+    "name": "Thiocyanic acid",
+    "nameFR": "Acide thiocyanique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNCS",
+    "name": "Isothiocyanic acid",
+    "nameFR": "Acide isothiocyanique",
+    "level": "",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HBO2",
+    "name": "Metaboric acid",
+    "nameFR": "Acide métaborique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HNCO",
+    "name": "Isocyanic acid",
+    "nameFR": "Acide isocyanique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2CrO4",
+    "name": "Chromic acid",
+    "nameFR": "Acide chromique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2Cr2O7",
+    "name": "Dichromic acid",
+    "nameFR": "Acide dichromique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HMnO4",
+    "name": "Permanganic acid",
+    "nameFR": "Acide permanganique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "H2MnO4",
+    "name": "Manganic acid",
+    "nameFR": "Acide manganique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "HCOOH",
+    "name": "Formic acid",
+    "nameFR": "Acide formique",
+    "level": "10",
+    "categories": ["Acid"]
+  },
+  {
+    "mf": "SeO2",
+    "name": "Selenium dioxide",
+    "nameFR": "Dioxyde de sélénium",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "Sb2O3",
+    "name": "Antimony trioxide",
+    "nameFR": "Trioxyde de diantimoine",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "SeO2",
+    "name": "Selenium dioxyde",
+    "nameFR": "Dioxyde de sélénium",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "CS2",
+    "name": "Carbon disulfide",
+    "nameFR": "Disulfure de carbone",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "SiF4",
+    "name": "Silicon tetrafluoride",
+    "nameFR": "Tétrafluorure de silicium",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "AsCl3",
+    "name": "Arsenic trichloride",
+    "nameFR": "Trichlorure d’arsenic",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "BN",
+    "name": "Boron nitride",
+    "nameFR": "Mononitrure de bore",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "CCl4",
+    "name": "Phosphorus trisulfide",
+    "nameFR": "Tétrachlorure de carbone",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "SI2",
+    "name": "Sulfur diiodide",
+    "nameFR": "Diiodure de soufre",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "PCl3",
+    "name": "Phosphorus trichloride",
+    "nameFR": "Trichlorure de phosphore",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "N2O3",
+    "name": "Dinitrogen trioxide",
+    "nameFR": "Trioxyde de diazote",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "PCl5",
+    "name": "Phosphorus pentachloride",
+    "nameFR": "Pentachlorure de phosphore",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "P2O5",
+    "name": "Diphosphorus pentoxide",
+    "nameFR": "Pentoxyde de diphosphore",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "SiO2",
+    "name": "Silicon dioxide",
+    "nameFR": "Dioxyde de silicium",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "SF6",
+    "name": "Sulfur hexafluoride",
+    "nameFR": "Hexafluorure de soufre",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "SiBr4",
+    "name": "Silicon tetrabromide",
+    "nameFR": "Tétrabromure de silicium",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  },
+  {
+    "mf": "Br2O7",
+    "name": "Dibromide heptaoxide",
+    "nameFR": "Heptoxyde de dibrome",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "NO",
+    "name": "Nitrogen monoxide",
+    "nameFR": "Monoxyde d’azote",
+    "level": "10",
+    "categories": ["NonmetalOxide"]
+  },
+  {
+    "mf": "AsN",
+    "name": "Arsenic nitride",
+    "nameFR": "Mononitrure d’arsenic",
+    "level": "10",
+    "categories": ["CovalentCompound"]
+  }
+]

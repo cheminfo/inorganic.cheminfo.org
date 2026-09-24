@@ -1,0 +1,272 @@
+label	mf	level	nameFR	name	metalOxide	NonmetalOxide	Hydroxide	Peroxide	Acid	InorganicSalt	CovalentCompound
+description	Molecular formula				metallic oxide		hydroxide	peroxide	acid	Inorganic salt	
+descriptionFR	Formule brute				oxyde métallique		hydroxide	peroxyde	acide	Sel inorganique	
+remarks		10 gymnase, 20 EPFL									
+	Al2O3	10	Oxyde d'aluminium	Aluminum oxide	x						
+	Sb2O5	10	Oxyde d'antimoine(V)	Antimony(V) oxide	x						
+	Ag2O	10	Oxyde d'argent(I)	Silver(I) oxide	x						
+	BaO	10	Oxyde de baryum	Barium oxide	x						
+	BeO	10	Oxyde de béryllium	Beryllium oxide	x						
+	Bi2O5	10	Oxyde de bismuth(V)	Bismuth(V) oxide	x						
+	B2O3	10	Oxyde de bore	Boron oxide	x						
+	CdO	10	Oxyde de cadmium	Cadmium oxide	x						
+	CaO	10	Oxyde de calcium	Calcium oxide	x						
+	Ce2O3	10	Oxyde de cérium(III)	Cerium(III) oxide	x						
+	CeO2	10	Oxyde de cérium(IV)	Cerium(IV) oxide	x						
+	Cs2O	10	Oxyde de césium	Cesium oxide	x						
+	CrO	10	Oxyde de chrome(II)	Chromium(II) oxide	x						
+	Cr2O3	10	Oxyde de chrome(III)	Chromium(III) oxide	x						
+	CrO2	10	Oxyde de chrome(IV)	Chromium(IV) oxide	x						
+	CrO3	10	Oxyde de chrome(VI)	Chromium(VI) oxide	x						
+	CoO	10	Oxyde de cobalt(II)	Cobalt(II) oxide	x						
+	Co2O3	10	Oxyde de cobalt(III)	Cobalt(III) oxide	x						
+	Cu2O	10	Oxyde de cuivre(I)	Copper(I) oxide	x						
+	CuO	10	Oxyde de cuivre(II)	Copper(II) oxide	x						
+	SnO	10	Oxyde d'étain(II)	Tin(II) oxide	x						
+	SnO2	10	Oxyde d'étain(IV)	Tin(IV) oxide	x						
+	Fe2O3	10	Oxyde de fer(III)	Iron(III) oxide	x						
+	Fr2O	10	Oxyde de francium	Francium oxide	x						
+	Gd2O3	10	Oxyde de gadolinium(III)	Gadolinium(III) oxide	x						
+	GaO	10	Oxyde de gallium(II)	Gallium(II) oxide	x						
+	Ga2O3	10	Oxyde de gallium(III)	Gallium(III) oxide	x						
+	GeO	10	Oxyde de germanium(II)	Germanium(II) oxide	x						
+	GeO2	10	Oxyde de germanium(IV)	Germanium(IV) oxide	x						
+	In2O	10	Oxyde d'indium(I)	Indium(I) oxide	x						
+	InO	10	Oxyde d'indium(II)	Indium(II) oxide	x						
+	In2O3	10	Oxyde d'indium(III)	Indium(III) oxide	x						
+	Ir2O3	10	Oxyde d'iridium(III)	Iridium oxide	x						
+	La2O3	10	Oxyde de lanthane	Lanthanum oxide	x						
+	Li2O	10	Oxyde de lithium	Lithium oxide	x						
+	MgO	10	Oxyde de magnésium	Magnesium oxide	x						
+	Mn3O4	20	Oxyde de manganèse(II,III)	Manganese(II,III) oxide	x						
+	MnO	10	Oxyde de manganèse(II)	Manganese(II) oxide	x						
+	Mn2O3	10	Oxyde de manganèse(III)	Manganese(III) oxide	x						
+	MnO2	10	Oxyde de manganèse(IV)	Manganese(IV) oxide	x						
+	Mn2O5	10	Oxyde de manganèse(V)	Manganese(V) oxide	x						
+	Mn2O7	10	Oxyde de manganèse(VII)	Manganese(VII) oxide	x						
+	Hg2O	10	Oxyde de mercure(I)	Mercury(I) oxide	x						
+	HgO	10	Oxyde de mercure(II)	Mercury(II) oxide	x						
+	MoO2	10	Oxyde de molybdène(IV)	Molybdenum(IV) oxide	x						
+	Mo2O5	10	Oxyde de molybdène(V)	Molybdenum(V) oxide	x						
+	NiO	10	Oxyde de nickel(II)	Nickel(II) oxide	x						
+	Ni2O3	10	Oxyde de nickel(III)	Nickel(III) oxide	x						
+	Nb2O3	10	Oxyde de niobium(III)	Niobium(III) oxide	x						
+	Os2O3	10	Oxyde d'osmium(III)	Osmium(III) oxide	x						
+	OsO3	10	Oxyde d'osmium(VI)	Osmium(VI) oxide	x						
+	OsO4	10	Oxyde d'osmium(VIIII)	Osmium(VIII) oxide	x						
+	PdO	10	Oxyde de palladium(II)	Palladium(II) oxide	x						
+	PdO2	10	Oxyde de palladium(IV)	Palladium(IV) oxide	x						
+	Pt3O4	20	Oxyde de platine(II,IV)	Platinum(II,IV) oxide	x						
+	PtO	10	Oxyde de platine(II)	Platinum(II) oxide	x						
+	Pt2O3	10	Oxyde de platine(III)	Platinum(III) oxide	x						
+	PuO2	10	Oxyde de plutonium(IV)	Plutonium(IV) oxide	x						
+	Pu2O5	10	Oxyde de plutonium(V)	Plutonium(V) oxide	x						
+	K2O	10	Oxyde de potassium	Potassium oxide	x						
+	RaO	10	Oxyde de radium	Radium oxide	x						
+	Rh2O3	10	Oxyde de rhodium(III)	Rhodium(III) oxide	x						
+	Rb2O	10	Oxyde de rubidium	Rubidium oxide	x						
+	RuO2	10	Oxyde de ruthénium(IV)	Ruthenium(IV) oxide	x						
+	RuO4	10	Oxyde de ruthénium(VIII)	Ruthenium(VIII) oxide	x						
+	Sc2O3	10	Oxyde de scandium(III)	Scandium(III) oxide	x						
+	Na2O	10	Oxyde de sodium	Sodium oxide	x						
+	SrO	10	Oxyde de strontium	Strontium oxide	x						
+	Ta2O3	10	Oxyde de tantale(III)	Tantalum(III) oxide	x						
+	Ta2O5	10	Oxyde de tantale(V)	Tantalum(V) oxide	x						
+	Tl2O	10	Oxyde de thallium(I)	Thallium(I) oxide	x						
+	Tl2O3	10	Oxyde de thallium(III)	Thallium(III) oxide	x						
+	TiO	10	Oxyde de titane(II)	Titanium(II) oxide	x						
+	Ti2O3	10	Oxyde de titane(III)	Titanium(III) oxide	x						
+	TiO2	10	Oxyde de titane(IV)	Titanium(IV) oxide	x						
+	W2O3	10	Oxyde de tungstène(III)	Tungsten(III) oxide	x						
+	WO2	10	Oxyde de tungstène(IV)	Tungsten(IV) oxide	x						
+	W2O5	10	Oxyde de tungstène(V)	Tungsten(V) oxide	x						
+	U2O5	10	Oxyde d'uranium(V)	Uranium(V) oxide	x						
+	VO	10	Oxyde de vanadium(II)	Vanadium(II) oxide	x						
+	V2O3	10	Oxyde de vanadium(III)	Vanadium(III) oxide	x						
+	VO2	1	Oxyde de vanadium(IV)	Vanadium(IV) oxide	x						
+	V2O5	10	Oxyde de vanadium(V)	Vanadium(V) oxide	x						
+	ZnO	10	Oxyde de zinc	Zinc oxide	x						
+	ZrO2	10	Oxyde de zirconium(IV)	Zirconium(IV) oxide	x						
+	CaO2	20	Peroxyde de calcium	Calcium peroxide				x			
+	Cu2O2       	20	Peroxyde de cuivre	Copper peroxide				x			
+	MgO2	20	Peroxyde de magnésium	Magnesium peroxide				x			
+	K2O2	20	Peroxyde de potassium	Potassium peroxide				x			
+	Na2O2	20	Peroxyde de sodium	Sodium peroxide				x			
+	ZnO2	20	Peroxyde de zinc	Zinc peroxide				x			
+	CO2	10	Dioxyde de carbone	Carbon dioxide		x					
+	CO	10	Monoxyde de carbone	Carbon monoxide		x					
+	NO	10	Monoxyde d'azote	Nitric oxide		x					
+	NO2	10	Dioxyde d'azote	Nitric dioxide		x					
+	IO2	10	Dioxyde d'iode	Iodine dioxide		x					
+	Al(OH)3	10	Hydroxyde d'aluminium	Aluminum hydroxide			x				
+	Ba(OH)2	10	Hydroxyde de baryum	Barium hydroxide			x				
+	Be(OH)2	10	Hydroxyde de béryllium	Beryllium hydroxide			x				
+	Bi(OH)3	10	Hydroxyde de bismuth(III)	Bismuth hydroxide			x				
+	H3BO3	10	Acide borique	Boric acid					x		
+	Cd(OH)2	10	Hydroxyde de cadmium	Cadmium hydroxide			x				
+	Ca(OH)2	10	Hydroxyde de calcium	Calcium hydroxide			x				
+	Ce(OH)4	10	Hydroxyde de cérium(IV)	Cerium hydroxide			x				
+	CsOH	10	Hydroxyde de césium	Cesium hydroxide 			x				
+	Cr(OH)3	10	Hydroxyde de chrome(III)	Chromium hydroxide			x				
+	Co(OH)2	10	Hydroxyde de cobalt(II)	Cobalt hydroxide			x				
+	Cu(OH)2	10	Hydroxyde de cuivre(II)	Copper hydroxide			x				
+	FeO(OH)	20	Oxyhydroxyde de fer(III)	Ferric hydroxide oxide	x		x				
+	Gd(OH)3	10	Hydroxyde de gadolinium	Gadolinium hydroxide			x				
+	Au(OH)3	10	Hydroxyde d'or(III)	Gold hydroxide			x				
+	Hf(OH)4	10	Hydroxyde d'hafnium	Hafnium hydroxide			x				
+	In(OH)3	10	Hydroxyde d'indium(III)	Indium hydroxide			x				
+	La(OH)3	10	Hydroxyde de lanthane	Lanthanum hydroxide			x				
+	LiOH	10	Hydroxyde de lithium	Lithium hydroxide			x				
+	Mg(OH)2	10	Hydroxyde de magnésium	Magnesium hydroxide			x				
+	Mn(OH)2	10	Hydroxyde de manganèse(II)	Manganese hydroxide			x				
+	Nd(OH)3	10	Hydroxyde de néodyme	Neodymium hydroxide			x				
+	Ni(OH)2	10	Hydroxyde de nickel(II)	Nickel hydroxide			x				
+	Pd(OH)2	10	Hydroxyde de palladium(II)	Palladium hydroxide			x				
+	KOH	10	Hydroxyde de potassium	Potassium hydroxide			x				
+	RbOH	10	Hydroxyde de rubidium	Rubidium hydroxide			x				
+	Sm(OH)3	10	Hydroxyde de samarium(III)	Samarium(III) hydroxide			x				
+	NaOH	10	Hydroxyde de sodium	Sodium hydroxide			x				
+	Sr(OH)2	10	Hydroxyde de strontium	Strontium hydroxide			x				
+	Zn(OH)2	10	Hydroxyde de zinc	Zinc hydroxide			x				
+	Zr(OH)4	10	Hydroxyde de zirconium	Zirconium hydroxide			x				
+	H2SO3	10	Acide sulfureux	Sulfurous acid					x		
+	H2SO4	10	Acide sulfurique	Sulfuric acid					x		
+	H2SO2	20	Acide hyposulfureux	Hyposulfurous acid					x		
+	H2SO5	20	Acide peroxysulfurique	Persulfuric acid					x		
+	H2S2O7	20	Acide pyrosulfurique	Pyrosulfuric acid					x		
+	H2S2O5	20	Acide disulfureux	Disulfurous acid					x		
+	H2S2O4	20	Acide dithioneux	Dithionous acid					x		
+	H2S4O6	20	Acide tétrathionique	Tetrathionic acid					x		
+	H2S2O2	20	Acide thiosulfureux	Thiosulfurous acid					x		
+	H2S	10	Sulfure d'hydrogène	Hydrosulfuric acid					x		
+	H2S2O8	10	Acide peroxydisulfurique	Peroxydisulfuric acid					x		
+	HClO4	10	Acide perchlorique	Perchloric acid					x		
+	HCl	10	Acide chlorhydrique	Hydrochloric acid					x		
+	HClO	10	Acide hypochloreux 	Hypochlorous acid					x		
+	HClO2	10	Acide chloreux	Chlorous acid					x		
+	HClO3	10	Acide chlorique	Chloric acid					x		
+	HNO	20	Acide hyponitreux	Hyponitrous acid					x		
+	HNO2	10	Acide nitreux	Nitrous acid					x		
+	HNO3	10	Acide nitrique	Nitric acid					x		
+	HNO4	20	Acide pernitrique	Pernitric acid					x		
+	H2CO2	20	Acide carboneux	Carbonous acid					x		
+	H2CO3	10	Acide carbonique	Carbonic acid					x		
+	H2CO	20	Acide hypocarboneux	Hypocarbonous acid					x		
+	H2CO4	20	Acide percarbonique	Percarbonic acid					x		
+	H2C2O4	10	Acide oxalique	Oxalic acid					x		
+	CH3COOH	10	Acide acétique	Acetic acid					x		
+	H3PO4	10	Acide phosphorique	Phosphoric acid					x		
+	H3PO3	10	Acide phosphoreux	Phosphorous acid					x		
+	H3PO2	20	Acide hypophosphoreux	Hypophosphous Acid					x		
+	H3PO5	20	Acide perphosphorique	Perphosphoric Acid					x		
+	H4P2O6	20	Acide hypophosphoreux	Hypophosphoric Acid					x		
+	H4P2O7	10	Acide pyrophosphorique	Pyrophosphoric Acid					x		
+	H3P	20	Hydrure de phosphore	Hydrophosphoric Acid					x		
+	HBr	10	Acide bromhydrique	Hydrobromic Acid					x		
+	HF	10	Acide fluorhydrique	Hydrofluoric acid					x		
+	HI	10	Acide iodhydrique	Hydroiodic acid					x		
+	HCN	10	Acide cyanhydrique						x		
+	HSCN	10	Acide thiocyanique	Thiocyanic acid					x		
+	HNCS		Acide isothiocyanique	Isothiocyanic acid					x		
+	HBO2	10	Acide métaborique	Metaboric acid					x		
+	HOCN	10	Acide cyanique						x		
+	HNCO	10	Acide isocyanique	Isocyanic acid					x		
+	H2CrO4	10	Acide chromique	Chromic acid					x		
+	H2Cr2O7	10	Acide dichromique	Dichromic acid					x		
+	HMnO4	10	Acide permanganique	Permanganic acid					x		
+	H2MnO4	10	Acide manganique	Manganic acid					x		
+	HCOOH	10	Acide formique	Formic acid					x		
+	KBr	10	Bromure de potassium							x	
+	Al2O3	10	Oxyde d’aluminium		x						
+	ZnI2	10	Iodure de zinc							x	
+	NaF	10	Fluorure de sodium							x	
+	CaBr2	10	Bromure de calcium							x	
+	BaS	10	Sulfure de baryum							x	
+	MgI2	10	Iodure de magnésium							x	
+	AlCl3	10	Chlorure d’aluminium							x	
+	ZnF2	10	Fluorure de zinc							x	
+	WI4	10	Iodure de tungstène(IV)							x	
+	Na3N	10	Nitrure de sodium							x	
+	CaF2	10	Fluorure de calcium							x	
+	FeO	10	Oxyde de fer(II)		x						
+	LiCl	10	Chlorure de lithium							x	
+	NiF3	10	Fluorure de nickel(III)							x	
+	CoS	10	Sulfure de cobalt(II)							x	
+	TiCl3	10	Chlorure de titane(III)							x	
+	TiCl4	10	Chlorure de titane(IV)							x	
+	KSCN	10	Thiocyanate de potassium							x	
+	NaOH	10	Hydroxyde de sodium				x				
+	FeCl2	10	Chlorure de fer(II)							x	
+	CrPO4	10	Phosphate de chrome(III)							x	
+	LiOH	10	Hydroxyde de lithium				x				
+	BaSO4	10	Sulfate de baryum							x	
+	MgCO3	10	Carbonate de magnésium							x	
+	Zn(OH)2	10	Hydroxyde de zinc				x				
+	NaNO3	10	Nitrate de sodium							x	
+	Ca(ClO4)2	10	Perchlorate de calcium							x	
+	KNO2	10	Nitrite de potassium							x	
+	Al2(SO4)3	10	Sulfate d’aluminium							x	
+	Na2SO3	10	Sulfite de sodium							x	
+	KMnO4	10	Permanganate de potassium							x	
+	Fe(ClO4)3	10	Perchlorate de fer(III)							x	
+	ZnSO3	10	Sulfite de zinc							x	
+	MgSiO3	10	Silicate de magnésium							x	
+	CaCO3	10	Carbonate de calcium							x	
+	Fe(ClO)2	10	Hypochlorite de fer(II)							x	
+	NaNO2	10	Nitrite de sodium							x	
+	CuSO4	10	Sulfate de cuivre(II)							x	
+	Co3(PO4)2	10	Phosphate de cobalt(II)							x	
+	SrCO3	10	Carbonate de strontium							x	
+	RbNO2	10	Nitrite de rubidium							x	
+	TiC	10	Carbure de titane(IV)							x	
+	Mg3(PO4)2	10	Phosphate de magnésium							x	
+	Fe(SCN)2	10	Thiocyanate de fer(II)							x	
+	V(ClO2)5	10	Chlorite de vanadium(V)							x	
+	Ag2SO4	10	Sulfate d’argent							x	
+	Mg(IO)2	10	Hypoiodite de magnésium							x	
+	Na2HPO4	10	Hydrogénophosphate de sodium							x	
+	MgMnO4	10	Manganate de magnésium							x	
+	Ba2P2O7	10	Pyrophosphate de baryum							x	
+	Cu(CH3COO)2	10	Acétate de cuivre(II)							x	
+	MoS3	10	Sulfure de molybdène(VI)							x	
+	MnN2	10	Nitrure de manganèse(VI)							x	
+	KHCO3	10	Hydrogénocarbonate de potassium							x	
+	NaOCN	10	Cyanate de sodium							x	
+	CdSO3	10	Sulfite de cadmium							x	
+	CaS2O3	10	Thiosulfate de calcium							x	
+	K3[Fe(CN)6]	10	Ferricyanure de potassium							x	
+	K3PO3	10	Phosphite de potassium							x	
+	MgC2O4	10	Oxalate de magnésium							x	
+	WI6	10	Iodure de tungstène(VI)							x	
+	Co2(CO3)3	10	Carbonate de cobalt(III)							x	
+	Ca(BrO)2	10	Hypobromite de calcium							x	
+	KSCN	10	Thiocyanate de potassium							x	
+	OsF4	10	Fluorure d’osmium(IV)							x	
+	SrS2O8	10	Persulfate de strontium							x	
+	Na2S	10	Sulfure de sodium							x	
+	Na3PO3	10	Phosphite de sodium							x	
+	Au(CN)3	10	Cyanure d’or(III)							x	
+	LiBrO2	10	Bromite de lithium							x	
+	Ag3P	10	Phosphure d’argent							x	
+	Zr(OH)4	10	Hydroxyde de zirconium				x				
+	PbCrO4	10	Chromate de plomb(II)							x	
+	SeO2	10	Dioxyde de sélénium	Selenium dioxide		x					
+	Sb2O3	10	Trioxyde de diantimoine	Antimony trioxide		x					
+	SeO2	10	Dioxyde de sélénium	Selenium dioxyde		x					
+	CS2	10	Disulfure de carbone	Carbon disulfide							x
+	SiF4	10	Tétrafluorure de silicium	Silicon tetrafluoride							x
+	AsCl3	10	Trichlorure d’arsenic	Arsenic trichloride							x
+	BN	10	Mononitrure de bore	Boron nitride							x
+	CCl4	10	Tétrachlorure de carbone	Phosphorus trisulfide							x
+	P2S3	10	Trisulfure de diphosphore								x
+	SI2	10	Diiodure de soufre	Sulfur diiodide							x
+	PCl3	10	Trichlorure de phosphore	Phosphorus trichloride							x
+	N2O3	10	Trioxyde de diazote	Dinitrogen trioxide							x
+	PCl5	10	Pentachlorure de phosphore	Phosphorus pentachloride							x
+	P2O5	10	Pentoxyde de diphosphore	Diphosphorus pentoxide		x					 
+	SiO2	10	Dioxyde de silicium	Silicon dioxide		x					
+	SF6	10	Hexafluorure de soufre	Sulfur hexafluoride							x
+	SiBr4	10	Tétrabromure de silicium	Silicon tetrabromide							x
+	Br2O7	10	Heptoxyde de dibrome	Dibromide heptaoxide		x					
+	NO	10	Monoxyde d’azote	Nitrogen monoxide		x					
+	AsN	10	Mononitrure d’arsenic	Arsenic nitride							x
