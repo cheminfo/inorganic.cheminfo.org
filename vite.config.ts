@@ -2,6 +2,7 @@ import react from '@vitejs/plugin-react';
 import { cheminfoBuildInfo, cheminfoPrerender } from 'react-cheminfo/vite';
 import { defineConfig } from 'vite';
 
+import { pageContent } from './src/content.ts';
 import { INDEXED_ROUTES } from './src/indexedRoutes.ts';
 import { ROUTES, SITE_ID, SITE_URL } from './src/routes.ts';
 
@@ -29,6 +30,9 @@ export default defineConfig({
       site: SITE_ID,
       // The pages and every tutorial step: each is a link a teacher hands out.
       routes: INDEXED_ROUTES,
+      // What each address says for itself: without it every address ships the
+      // same body, this site's menu, and a search engine folds them into one.
+      content: pageContent,
       origin: SITE_URL,
       description:
         'Name an inorganic compound from its formula and write its formula from its name, with a step-by-step tutorial, graded exercises and the rules on one page.',
