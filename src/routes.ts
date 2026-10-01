@@ -20,9 +20,6 @@ export const SITE_NAME = 'inorganic.cheminfo.org';
 /** Where the site is served, and what every canonical address is built on. */
 export const SITE_URL = 'https://inorganic.cheminfo.org';
 
-/** Where the sources live. */
-export const REPOSITORY = 'https://github.com/cheminfo/inorganic.cheminfo.org';
-
 /** The pages, named as the router and the state name them. */
 export type TabId = 'tutorial' | 'name' | 'formula' | 'rules' | 'about';
 
